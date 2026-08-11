@@ -10,34 +10,54 @@ This repository contains the exercises, challenges and projects I develop while 
 
 ### ✅ Completed
 
-- Fundamentals of Computing and Programming Logic
-- Lists and Collections
-- Variable and Types
-- Strings
-- Regular Expressions (Regex)
+#### Programming Fundamentals
+
+* Fundamentals of Computing and Programming Logic
+* Variables and Types
+* Conditional Statements (`if` / `else`)
+* Loops (`for` / `while`)
+
+#### Collections and Data Processing
+
+* Lists and Collections
+* Collections Framework
+* Streams
+* Stream API
+
+#### Strings and Text Processing
+
+* Strings
+* Regular Expressions (Regex)
+
+#### Object-Oriented Programming
+
+* Object-Oriented Programming (OOP)
+* Inheritance
+* Polymorphism
+* Interfaces
 
 ### 🚧 Currently Studying
 
-- Object-Oriented Programming (OOP)
+* Exceptions
+* File I/O
 
 ### 📌 Upcoming Topics
 
-- Exceptions
-- File I/O
-- Streams
-- APIs
-- Spring Boot
-- SQL
+* APIs
+* Spring Framework
+* Spring Data
+* Spring Boot
+* SQL
 
 ---
 
 ## 🛠 Technologies
 
-- Java
-- Maven
-- Git
-- GitHub
-- IntelliJ IDEA
+* Java
+* Maven
+* Git
+* GitHub
+* IntelliJ IDEA
 
 ---
 
@@ -45,8 +65,10 @@ This repository contains the exercises, challenges and projects I develop while 
 
 ```text
 src
-├── strings
-└── regex
+├── collections
+├── regex
+├── streams
+└── strings
 ```
 
 As new topics are completed, this repository will continue to grow.
