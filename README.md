@@ -1,88 +1,112 @@
-# ☕ Java Studies
+# Hi, I'm Luan Zapata 👋
 
-Welcome to my Java learning journey!
-
-This repository contains the exercises, challenges and projects I develop while learning Java. It serves as a record of my progress, from the fundamentals to more advanced backend concepts.
+### Computer Engineering Student | Java & Python Developer | Backend Enthusiast
 
 ---
 
-## 📚 Learning Roadmap
+## 👨‍💻 About Me
 
-### ✅ Completed
+I'm a Computer Engineering student at **Universidade Positivo** (Brazil), passionate about software development, backend engineering and technology.
 
-#### Programming Fundamentals
+Currently focused on improving my skills in **Java and Python**, building real-world applications and strengthening my knowledge of software engineering, APIs and backend development.
 
-* Fundamentals of Computing and Programming Logic
-* Variables and Types
-* Conditional Statements (`if` / `else`)
-* Loops (`for` / `while`)
+I believe in continuous learning, clean code and building a strong foundation in computer science through practical projects.
 
-#### Collections and Data Processing
+---
 
-* Lists and Collections
-* Collections Framework
-* Streams
-* Stream API
+## 🚀 Technologies & Tools
 
-#### Strings and Text Processing
+### Programming Languages
 
+* ☕ Java
+* 🐍 Python
+* 💻 C
+
+### Technologies & Concepts
+
+* 🌐 REST APIs
+* 🔗 HTTP & JSON
+* 🕷️ Web Scraping
+* 🤖 Automation
+* 📡 Telegram Bot API
+* 🌱 Spring Boot
+* 🗄️ Databases
+* 🔧 Git & GitHub
+
+### Python
+
+* Requests
+* BeautifulSoup4
+* Playwright
+* python-dotenv
+
+### Currently Learning
+
+* ☕ Java Backend Development
+* 🌱 Spring Framework & Spring Boot
+* 🌐 REST API Development
+* 🗄️ Databases & SQL
+* 🏗️ Software Engineering
+
+---
+
+## 📚 Featured Projects
+
+### 🔥📉🛒 Radar Tech Ofertas
+
+A Python automation that finds technology and electronics deals on Mercado Livre, automatically generates affiliate links and publishes offers to a Telegram group several times a day.
+
+The project combines **web scraping, browser automation, data processing and Telegram integration**.
+
+**Technologies:**
+
+* Python
+* Requests
+* BeautifulSoup4
+* Playwright
+* Telegram Bot API
+* python-dotenv
+* Windows Task Scheduler
+
+🔗 [Radar Tech Ofertas](https://github.com/luanzapata/radar-tech-ofertas)
+
+---
+
+### ☕ Java Studies
+
+Repository containing my Java learning journey, exercises and programming challenges.
+
+Topics covered:
+
+* Java Fundamentals
 * Strings
-* Regular Expressions (Regex)
+* Regular Expressions
+* Collections
+* Object-Oriented Programming
+* Streams
 
-#### Object-Oriented Programming
-
-* Object-Oriented Programming (OOP)
-* Inheritance
-* Polymorphism
-* Interfaces
-
-### 🚧 Currently Studying
-
-* Exceptions
-* File I/O
-
-### 📌 Upcoming Topics
-
-* APIs
-* Spring Framework
-* Spring Data
-* Spring Boot
-* SQL
+🔗 [java--studies](https://github.com/luanzapata/java--studies)
 
 ---
 
-## 🛠 Technologies
+## 🎯 Goals
 
-* Java
-* Maven
-* Git
-* GitHub
-* IntelliJ IDEA
+My current goal is to become a professional software developer, focusing on **backend development** and building reliable, scalable and well-structured applications.
+
+I'm currently expanding my knowledge of the **Java ecosystem, Spring Boot, REST APIs and databases**, while also using Python for automation and practical projects.
 
 ---
 
-## 📂 Current Project Structure
+## 📊 GitHub Stats
 
-```text
-src
-├── collections
-├── regex
-├── streams
-└── strings
-```
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanzapata&show_icons=true&theme=tokyonight)
 
-As new topics are completed, this repository will continue to grow.
+## 💻 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanzapata&layout=compact&theme=tokyonight)
 ---
 
-## 🎯 Goal
+## 📫 Contact
 
-Build a solid Java foundation and become a Backend Java Developer.
-
----
-
-## 👨‍💻 Author
-
-**Luan Zapata**
-
-Computer Engineering Student at Universidade Positivo
+* 💼 [LinkedIn](https://www.linkedin.com/in/luan-zapata-051559222)
+* 💻 [GitHub](https://github.com/luanzapata)
