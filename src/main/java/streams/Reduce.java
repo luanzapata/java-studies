@@ -1,9 +1,8 @@
 package streams;
 
-import java.sql.SQLOutput;
 import java.util.List;
 
-public class ReduceExample {
+public class Reduce {
     public static void main(String[] args) {
         List<Double> precosProdutos = List.of(29.99, 49.50, 15.75, 99.99);
 

@@ -2,7 +2,7 @@ package regex;
 
 import java.util.Scanner;
 
-public class MatchesExample {
+public class Matches {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o CPF: ");

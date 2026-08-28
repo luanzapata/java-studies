@@ -2,7 +2,7 @@ package streams;
 
 import java.util.List;
 
-public class CompareExample {
+public class Compare {
     public static void main(String[] args) {
         List<Double> notas = List.of(7.5, 8.0, 6.5, 9.0, 10.0);
 

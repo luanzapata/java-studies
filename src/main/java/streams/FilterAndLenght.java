@@ -1,10 +1,9 @@
 package streams;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class FilterAndLenghtExample {
+public class FilterAndLenght {
     public static void main(String[] args) {
         List<String> funcionarios = List.of("Ana", "Bruno", "Carlos", "Amanda", "Alice", "Daniel", "Caroline");
 

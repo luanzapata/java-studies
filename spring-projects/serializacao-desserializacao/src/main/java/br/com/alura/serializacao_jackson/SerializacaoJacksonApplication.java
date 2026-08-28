@@ -12,7 +12,7 @@ public class SerializacaoJacksonApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// Serialização
-		Tarefa tarefa = new Tarefa("Assistir à aula 1", false, "João");
+		br.com.alura.serializacao_jackson.Tarefa tarefa = new br.com.alura.serializacao_jackson.Tarefa("Assistir à aula 1", false, "João");
 
 		ObjectMapper objectMapper = new ObjectMapper();
 
